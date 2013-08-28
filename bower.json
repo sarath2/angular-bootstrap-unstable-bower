@@ -1,0 +1,8 @@
+{
+    "name": "angular-bootstrap-unstable",
+    "version": "0.6.0",
+     "main": ["./ui-bootstrap-tpls.js"],
+    "dependencies": {
+        "angular": ">=1"
+    }
+}
